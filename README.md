@@ -9,3 +9,5 @@ list of queries-
     it create a test database in Database Folder.
 #3. use test;
     default database is nehra, so it change current database as test.
+#4. clear
+create the console.
