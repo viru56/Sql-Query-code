@@ -4,3 +4,6 @@ to run this pjroject run Test.java file.
 this project explain how sql work.
 list of queries-
 #1. show databases; 
+    show all the database.
+#2. create database test;
+    it create a test database in Database Folder.
