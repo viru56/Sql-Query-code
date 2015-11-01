@@ -1,0 +1,1 @@
+name String,lastname String,rollno String,gender char,DateOfBirth Date
