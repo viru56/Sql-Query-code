@@ -7,3 +7,5 @@ list of queries-
     show all the database.
 #2. create database test;
     it create a test database in Database Folder.
+#3. use database test;
+    default database is nehra, so it change current database as test.
